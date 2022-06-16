@@ -1,0 +1,15 @@
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.exe
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.deps.json
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.runtimeconfig.json
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.dll
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.AssemblyInfo.cs
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.dll
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\refint\ConsoleApp1.dll
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.genruntimeconfig.cache
+C:\Users\levan.doliashvili\Desktop\NLog.Target.Gelf\ConsoleApp1\obj\Debug\net6.0-windows\ref\ConsoleApp1.dll

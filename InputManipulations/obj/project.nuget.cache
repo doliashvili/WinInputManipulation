@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5CGdhegqwubaOyb8uAgWS3iKgFSYC6kd9BFM7A8ZxOtLYme1frNZFDwfPNgL//mgWoaKCC7sQMOMiUsTlWCPEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\levan.doliashvili\\Desktop\\InputManipulations\\WinInputManipulation\\InputManipulations\\Win32InputManipulations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\levan.doliashvili\\.nuget\\packages\\inputsimulatorcore\\1.0.5\\inputsimulatorcore.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

