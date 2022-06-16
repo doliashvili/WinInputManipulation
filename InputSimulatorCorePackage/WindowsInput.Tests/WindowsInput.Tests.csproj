@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp2.1</TargetFramework>
+
+		<IsPackable>false</IsPackable>
+
+		<SignAssembly>true</SignAssembly>
+
+		<AssemblyOriginatorKeyFile>WindowsInput.Tests.snk</AssemblyOriginatorKeyFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="WindowsInput.Tests.snk" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
+		<PackageReference Include="NUnit" Version="3.10.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\WindowsInput\WindowsInput.csproj" />
+	</ItemGroup>
+
+</Project>
